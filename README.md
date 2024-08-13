@@ -1,19 +1,3 @@
-# calculateapp
+# Price Calculator2.0
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+This price calculator is a simple calculator for calculating products with respect to the quantity. This version is based on Vue js.
